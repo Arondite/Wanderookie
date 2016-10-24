@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Wanderookie</string>
+    <string name="wonderookie">Wanderookie</string>
+    <string name="logInButtonText">Log In</string>
+    <string name="signUpButtonText">Sign Up</string>
+    <string name="sign_up_ButtonText">Sign up</string>
+    <string name="welcome_back_signIn">Welcome Back</string>
+    <string name="find_hikes_list">List</string>
+    <string name="map_view">Map View</string>
+    <string name="list_view">List View</string>
+    <string name="advanced_search">Advanced Search</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="menu">Menu</string>
+    <string name="bucket_list">Bucket List</string>
+    <string name="goals">Goals</string>
+    <string name="completed_hikes">Completed Hikes</string>
+    <string name="trail_hint">Enter Trail Name</string>
+    <string name="locale_hint">Enter City or Park Name</string>
+    <string name="county_hint">Enter County</string>
+    <string name="distance_hint">Enter Distance</string>
+    <string name="difficulty_hint">Enter Difficulty</string>
+    <string name="elevation_hint">Enter Elevation Gain</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
